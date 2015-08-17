@@ -364,10 +364,12 @@ p {
 
 .man-driver {
   margin-left: -99px;
-  margin-right: -64px; }
+  margin-right: -64px;
+  overflow: hidden; }
 
 .woman-tea {
   margin-right: -49px;
-  margin-left: -28px; }
+  margin-left: -28px;
+  overflow: hidden; }
 
 /*# sourceMappingURL=styles.css.map */
