@@ -356,4 +356,18 @@ td,
 th {
   padding: 0; }
 
+p {
+  background-color: #B3B3B3;
+  padding-left: 5px;
+  font-size: 10pt;
+  padding: 20px 5px 20px 5px; }
+
+.man-driver {
+  margin-left: -99px;
+  margin-right: -64px; }
+
+.woman-tea {
+  margin-right: -49px;
+  margin-left: -28px; }
+
 /*# sourceMappingURL=styles.css.map */
